@@ -1,3 +1,3 @@
 # yuezhiwu
 wu to learn github
-![image]
+![image](https://github.com/yuezhewei/yuezhiwu/blob/master/image/f1.jpg)
